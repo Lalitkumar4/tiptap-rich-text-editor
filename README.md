@@ -2,6 +2,8 @@
 
 This `Tiptap` Rich Text Editor is a web app allowing users to generate and modify rich text content easily. Built using React, Tailwind CSS, and Tiptap.
 
+[Live Demo](https://tiptap-rich-text-editor.vercel.app/)
+
 ## 📦 Technologies
 - `ReactJS`
 - `Tiptap - Rich text editor`
